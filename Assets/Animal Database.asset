@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b683270f634de9a386ece59d56cecba, type: 3}
+  m_Name: Animal Database
+  m_EditorClassIdentifier: 
+  animalData:
+  - <Name>k__BackingField: Ant
+    <description>k__BackingField: Ants form colonies that range in size from a few
+      dozen predatory individuals living in small natural cavities to highly organised
+      colonies that may occupy large territories and consist of millions of individuals.
+    <categories>k__BackingField:
+    - Non flying
+    - Insect
+    - Omnivorous
+    - Lives in group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 3385452555075293138, guid: 45efb407c743f101ba08bbd6b6ce7a11, type: 3}
+  - <Name>k__BackingField: Bee
+    <description>k__BackingField: ees are flying insects closely related to wasps
+      and ants, known for their role in pollination and, in the case of t
+    <categories>k__BackingField:
+    - Flying
+    - Insect
+    - herbivores
+    - Lives in group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 7765560198825377336, guid: 6f31d4d12edc77f74b53ce0308c4761b, type: 3}
+  - <Name>k__BackingField: Bat
+    <description>k__BackingField: Bats are mammals of the order Chiroptera. With
+      their forelimbs adapted as wings, they are the only mammals capable of true
+      and sustained flight. They are nocturnal animals.
+    <categories>k__BackingField:
+    - Flying
+    - non Insect
+    - Omnivorous
+    - Lives in group
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 6989259752789307527, guid: 2b6430259556fa099b9cd8f3283716e3, type: 3}
+  - <Name>k__BackingField: Bear
+    <description>k__BackingField: Bears are carnivoran mammals of the family Ursidae.
+      They are classified as caniforms or doglike carnivorans. Although only eight
+      species of bears are extant, they are widespread, appearing in a wide variety
+      of habitats throughout the Northern Hemisphere and partially in the Southern
+      Hemisphere.
+    <categories>k__BackingField:
+    - Non flying
+    - Non Insect
+    - Omnivorous
+    - Solo
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 1950267433702006468, guid: e07f57bffe910437e97b8c9c111a5c5c, type: 3}
+  - <Name>k__BackingField: Beetle
+    <description>k__BackingField: "Beetles are a group of insects that form the order
+      Coleoptera. The word \"coleoptera\" is from the Greek \u03BA\u03BF\u03BB\u03B5\u03CC\u03C2,
+      koleos meaning \"sheath\"; and \u03C0\u03C4\u03B5\u03C1\u03CC\u03BD, pteron
+      meaning \"wing\", thus \"sheathed wing\", because most beetles have two pairs
+      of wings, the front pair, the elytra, being hardened and thickened into a shell-like
+      protection for the rear pair and the beetle's abdomen."
+    <categories>k__BackingField:
+    - Flying
+    - Insect
+    - Omnivorous
+    - Solo
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 5390286984849195665, guid: 8bfeaaab69fb9661fa7e0c960e573c78, type: 3}
+  - <Name>k__BackingField: Butterfly
+    <description>k__BackingField: Butterflies are insects in the macrolepidopteran
+      clade Rhopalocera from the order Lepidoptera, which also includes moths. Adult
+      butterflies have large, often brightly coloured wings, and conspicuous, fluttering
+      flight.
+    <categories>k__BackingField:
+    - Flying
+    - Insect
+    - Herbivorous
+    - Solo
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 3481824818478393495, guid: 4e751a266e487125ba6910ebd31f2386, type: 3}
+  - <Name>k__BackingField: Cat
+    <description>k__BackingField: The domestic cat is a member of the Felidae family
+      and is one of the most popular pets in the world. Domestic cats are often called
+      house cats when kept as indoor pets.
+    <categories>k__BackingField:
+    - non flying
+    - non Insect
+    - Omnivorous
+    - Solo
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 1803231675126238744, guid: f1b47e7ed75b9c775b873b7c4e9bea87, type: 3}
+  - <Name>k__BackingField: Chicken
+    <description>k__BackingField: The chicken is a type of domesticated fowl, a subspecies
+      of the red junglefowl. It is one of the most common and widespread domestic
+      animals.
+    <categories>k__BackingField:
+    - non flying
+    - non Insect
+    - Omnivorous
+    - Group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 6638998285756419126, guid: edb84c06d64639240b304d9a0be844d4, type: 3}
+  - <Name>k__BackingField: Clown Fish
+    <description>k__BackingField: 'Clownfish or anemonefish are fishes from the subfamily
+      Amphiprioninae in the family Pomacentridae. Thirty species are recognized:
+      one in the genus Premnas, while the remaining are in the genus Amphiprion.'
+    <categories>k__BackingField:
+    - non flying
+    - non Insect
+    - Omnivorous
+    - Group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 7324848939129549117, guid: 573f11784e77a39b59c3ba620bc79e36, type: 3}
+  - <Name>k__BackingField: Dog
+    <description>k__BackingField: The domestic dog is a domesticated descendant of
+      wolves. The dog descended from an ancient wolf ancestor that lived with humans
+      over 15,000 years ago.
+    <categories>k__BackingField:
+    - non flying
+    - Non Insect
+    - Omnivorous
+    - Solo
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 7925516635054249266, guid: 2c3560615d06f24b6b5df6f940f14daa, type: 3}
+  - <Name>k__BackingField: Cow
+    <description>k__BackingField: "Cattle\u2014colloquially cows\u2014are domesticated
+      mammals that constitute the genus Bos, and they are most commonly classified
+      collectively as Bos taurus."
+    <categories>k__BackingField:
+    - non flying
+    - non Insect
+    - herbivorous
+    - Group
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 236583447834251009, guid: 3af9736fd3cf0202aaab957f0334e790, type: 3}
+  - <Name>k__BackingField: Deer
+    <description>k__BackingField: Deer (singular and plural) are hoofed ruminant
+      mammals forming the family Cervidae. The two main groups of deer are the Cervinae,
+      including muntjac, elk (wapiti), fallow deer and chital, and the Capreolinae,
+      including reindeer (caribou), roe deer and moose.
+    <categories>k__BackingField:
+    - non flying
+    - Non Insect
+    - Herbivorous
+    - Group
+    - Give birth
+    <Prefab>k__BackingField: {fileID: 6253419342679311893, guid: 082a258825a5b7fb6853d22c401cdabb, type: 3}
+  - <Name>k__BackingField: Dragonfly
+    <description>k__BackingField: A dragonfly is an insect belonging to the order
+      Odonata, infraorder Anisoptera. Adult dragonflies are characterized by large
+      multifaceted eyes, two pairs of strong transparent wings, sometimes with coloured
+      patches, and an elongated body.
+    <categories>k__BackingField:
+    - Flying
+    - Non Insect
+    - Omnivorous
+    - Solo
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 6443227176192081087, guid: 0c8cf1f73eb32ca61a28402ecd039d1f, type: 3}
+  - <Name>k__BackingField: Duck
+    <description>k__BackingField: Duck is a common name for numerous species in waterfowl
+      family Anatidae which also includes swans and geese.
+    <categories>k__BackingField:
+    - Flying
+    - Non Insect
+    - Herbivorous
+    - Group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 6953832822072148895, guid: c479a0e08fd3b2534bd25873711ed2f5, type: 3}
+  - <Name>k__BackingField: Falcon
+    <description>k__BackingField: Falcons are birds of prey in the genus Falco which
+      includes about 40 species. Falcons are widely distributed on all continents
+      except Antarctica.
+    <categories>k__BackingField:
+    - Flying
+    - Non Insect
+    - Omnivorous
+    - Solo
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 3782809851096430077, guid: 38f451aa935a61bbdba07256960fe7ce, type: 3}
+  - <Name>k__BackingField: Fly
+    <description>k__BackingField: True flies are insects of Diptera order which includes
+      house flies, mosquitoes etc., characterized by having a single pair of wings
+      on their mesothorax and halteres on their metathorax used for balance.
+    <categories>k__BackingField:
+    - Flying
+    - Insect
+    - Omnivorous
+    - Group
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 2034717911290536064, guid: 4ec9a1a6bee187429b8c051423a8cac8, type: 3}
+  - <Name>k__BackingField: Grasshopper
+    <description>k__BackingField: Grasshoppers are insects belonging to suborder
+      Caelifera within order Orthoptera. They are herbivorous insects that can jump
+      long distances.
+    <categories>k__BackingField:
+    - non flying
+    - Insect
+    - Omnivorous
+    - Solo
+    - Lay eggs
+    <Prefab>k__BackingField: {fileID: 6238617341652195373, guid: a079f0e2d79bf158fb6e2abdf73b1987, type: 3}
